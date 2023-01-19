@@ -2,9 +2,9 @@
 
 <!-- [![GitHub Followers](https://img.shields.io/github/followers/huong-nt.svg?style=social&label=Follow)](https://github.com/huong-nt/) -->
 
-![Huong's GitHub stats](https://github-readme-stats.vercel.app/api?username=huong-nt&count_private=true&show_icons=true)
+![Huong's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=huong-nt&count_private=true&show_icons=true)
 
-![Huong's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=huong-nt&layout=compact&langs_count=8)
+![Huong's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=huong-nt&layout=compact&langs_count=8)
 
 <!-- <img align=left src=https://profile-counter.glitch.me/huong-nt/count.svg> -->
 
