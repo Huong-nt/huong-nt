@@ -8,17 +8,17 @@
 
 <!-- <img align=left src=https://profile-counter.glitch.me/huong-nt/count.svg> -->
 
-### 😎 About Me
+### About Me
 
 - I'm Vietnamese :vietnam:, and currently live in Seoul :kr:
 - I love coding, reading book, news, and articles
 - Hobbies include: investing, shuttlecock kicking, and more coding
 
-### 🎓 Education
+### Education
 
 - Msc. in Computer Science from Sejong University, Korea
-- BSc. in information and technology engineering from Hanoi university of science and technology, Vietnam
+- BSc. in information and technology engineering from Hanoi University of Science and Technology, Vietnam
 
-### 📬 Get in Touch
+### Get in Touch
 
 **Linkedin:** https://www.linkedin.com/in/huong-nguyen-453516115/
